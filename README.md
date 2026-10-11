@@ -2,6 +2,10 @@
 
 Нативный переводчик для Mac: **немецкий ↔ русский** и **английский ↔ русский**. Автор — **Maxim S.**
 
+<p align="center">
+  <img src="images/das-wort-katze.png" alt="das Wort: перевод слова Katze, грамматика, сочетания и примеры" width="530">
+</p>
+
 ## Скачать и установить
 
 [**Скачать последнюю версию для Mac →**](https://github.com/Syrmus/das-wort-releases/releases/latest)
